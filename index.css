@@ -1,0 +1,26 @@
+body{
+    margin-left: 300px;
+    background: linear-gradient(to left, rgb(124, 97, 97), rgb(64, 64, 99))
+}
+
+td{
+    border: 1px solid black;
+}
+button,input{
+    border: 2px solid black;
+}
+button:hover{
+    cursor: pointer;
+}
+
+input,h1{
+    margin-left: 300px;
+}
+h2{
+    margin-left: 400px;
+}
+
+.str{
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
